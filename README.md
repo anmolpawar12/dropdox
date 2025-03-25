@@ -14,3 +14,4 @@ create table files
 3.cd frontend
 4.npm install
 5.npm start
+6.For back run BackendApplication from ide 
